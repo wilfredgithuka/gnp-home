@@ -1,0 +1,4 @@
+# Files to ignore
+
+flaskblog/site.db
+*.db
